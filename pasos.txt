@@ -1,0 +1,5 @@
+1) archivo json.js
+2) npm install express --save
+3)crear el archivo app.js
+
+RUN: node app
